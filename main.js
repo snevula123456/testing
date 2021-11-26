@@ -441,3 +441,27 @@ house.test();
 const hh = JSON.parse(JSON.stringify(house));
 
 console.log("Shyam from Shyam Singh Practise");
+
+console.log(Math.sqrt(8));
+
+localStorage.setItem("name", 123);
+const xx = localStorage.getItem("name");
+console.log(xx);
+
+const c = [..."apple"];
+
+console.log(c);
+
+var x = 10;
+
+while (x == 10) {
+  x = 20;
+  console.log(x);
+}
+
+// let p = 10;
+
+// while (p == 10) {
+//   let x = 20;
+//   console.log(x);
+// }
